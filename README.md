@@ -2,6 +2,11 @@
 
 ### screenshots of the kyivcity.gov.ua website  testing
 
+![popup](gifs/testRail.gif)
+
+
+#### full screens of 1 test :arrow_heading_down:
+
 <details>
 <summary>toggle Screenshot :clapper:</summary>
 <br>
@@ -32,5 +37,3 @@
 
 ![popup](screens/5.jpg)
 </details>
-
-#### full screens could be checked in the folder above
